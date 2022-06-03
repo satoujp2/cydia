@@ -1,8 +1,13 @@
-Origin: CYR580's Repo
-Label: CYR580's Repo
+Origin: jackie099的cydia源
+Label: jackie099
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: jackie099
 Architectures: iphoneos-arm
 Components: main
-Description: CYR580's Repo
+Description: 099的常用软件源
+MD5Sum:
+ 3b09cc5f1ca8bb4b438b3fefa27a5806 266 Packages
+ 0a46c656b5c619d9e3d089e6732a1015 247 Packages.bz2
+ 82812eb371581523ddf2400015974815 228 Packages.gz
+

@@ -1,0 +1,14 @@
+Package: WOLFOX
+Name:WOLFOX
+Depends: mobilesubstrate
+Filename: debs/WOLFOX_4.1.deb
+Size: 2831448
+MD5sum: de6b0cad00f371857d5e99b7969b85a5
+Architecture: iphoneos-arm
+Description:WOLFOX
+Maintainer:WOLFOX
+Author:WOLFOX
+Section: Tweaks
+Version: 4.0
+Installed-Size: 904
+
